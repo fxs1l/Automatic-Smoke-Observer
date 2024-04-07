@@ -5,7 +5,7 @@ Automatic Smoke Observer (ASO) remotely monitors and gives alerts for forest fir
 It was developed in partial fulfillment for a research subject in high school.
 
 ### How it works
-![alt text](https://github.com/fxs1l/Automatic-Smoke-Observer/blob/master/media/ASO.jpg "ASO Brochure")
+![alt text](https://github.com/fxs1l/Automatic-Smoke-Observer/blob/master/media/ASO.png "ASO Brochure")
 
 ### Promotional Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cfjgM5uVEug
